@@ -4,7 +4,7 @@
   <img src="https://github.com/StressOverflow/.github/assets/92941081/17c9dd41-283a-4413-ac89-ac956b218a41" />
 </p>
 
-[StressOverflow] is a student group from the [Universidad Rey Juan Carlos 🎓]. Formed by [Diego García], [Teresa Ortega], [Carlos Escarcena] and [Arantxa García]
+[StressOverflow] is a student group from the [Universidad Rey Juan Carlos] 🎓. Formed by [Diego García], [Teresa Ortega], [Carlos Escarcena] and [Arantxa García]
 
 ![team](https://github.com/StressOverflow/.github/assets/92941081/22fc3c0a-faa4-44b2-b86f-3aca8dee8915)
 
